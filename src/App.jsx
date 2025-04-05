@@ -10,7 +10,7 @@ function App()
   const [status, setStatus] = useState("");
   const[banList, setBanList] = useState([]);
 
-const apiUrl = "https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?sol=1000&api_key=UVLd4gO3COZBH18kl1gNMJJwPdXWoCd8yO08VFAs";
+const apiUrl = "https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?sol=1000&api_key=API_KEY";
 
   //fetch data from api 
   const getRandomData = async() => {
