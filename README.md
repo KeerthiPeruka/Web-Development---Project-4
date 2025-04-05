@@ -44,7 +44,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough :
 
-<img src="https://i.postimg.cc/Prv7VW0t/nasa.gif" title="Video Walkthrough" height= "300" width="350" alt="Video Walkthrough" />
+<img src="https://i.postimg.cc/Prv7VW0t/nasa.gif" title="Video Walkthrough" height= "400" width="400" alt="Video Walkthrough" />
 
 GIF created with ...  
 [Kap](https://getkap.co/) for macOS
